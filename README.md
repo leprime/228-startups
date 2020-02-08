@@ -7,7 +7,9 @@
 
 # Catégories
 * [Agriculture](#agriculture)
+* [Agroalimentaire](#agroalimentaire)
 * [Commerce](#commerce)
+* [E-Commerce](#e-commerce)
 * [FinTech](#fintech)
 * [Éducation](#education)
 * [Informatique/Digital](#informatique)
@@ -28,6 +30,16 @@
 |----------|:-------------:|------:|:----| 
 | **Soja Invest**| ... | ... | ... |
 
+<div id='agroalimentaire'/>
+
+# Agroalimentaire
+| Nom | Description | Site web | Liens |
+|----------|:-------------:|------:|:----| 
+| **Christina Food**| Transformation et vente du jus de corossol | ... | ... |
+| **Bethel Kebab**| Transformation et vente de la viande de blé | ... | ... |
+| **Tanko Timati**| Transformation et vente de la puré de Tomate | ... | ... |
+| **kinkeliba**| Transformation et vente thé de kinkeliba| ... | ... |
+
 <div id='commerce'/>
 
 # Commerce
@@ -35,12 +47,21 @@
 |----------|:-------------:|------:|:----| 
 | **Sigab-Corp**| ... | ... | ... |
 
+<div id='e-commerce'/>
+
+# E-Commerce
+| Nom | Description | Site web | Liens |
+|----------|:-------------:|------:|:----| 
+| **Miaplenou**| Site de vente d'electronique | miaplenou.com | ... |
+| **youpiokaz**| Vente de produits de beauté, de mode, pagnes...| youpiokaz.com | ... |
+
+
 <div id='fintech'/>
 
 # FinTech
 | Nom | Description | Site web | Liens |
 |----------|:-------------:|------:|:----| 
-
+| **Semoa-Togo**| ... | ... | ... |
 <div id='education'/>
 
 # Éducation
@@ -51,6 +72,7 @@
 | **Suisco**| SuiSco vise l’amélioration des modes de communication entre l’école, la famille et les apprenants en utilisant le canal des nouvelles technologies en vue de faciliter la gestion collégiale de la vie scolaire et universitaire.| http://www.suisco.net | x |
 | **Zonoa**| ... | https://zonoa.net | x |
 | **Top Fournituresn Services**| ... | ... | https://www.facebook.com/TopFournitures/ |
+| **SDF-Academy**| Une academie de la startup OPEN-SDF, de renforcement de capacités professionnelles en Technologie| https://opensdf.tk |  https://twitter.com/OpenSDF228 |
 
 <div id='informatique' />
 
@@ -127,7 +149,8 @@
 - [FAIEJ](https://www.faiej.tg/)
 - [PRADEB](http://devbase.gouv.tg/)
 - [Female TechCamp TOGO](http://femaletechcamptogo.org)
-- 
+- [NUNYA LAB](http://nunyalab.tg)
+ 
 ## Communautés
 - **Libra Web** : Libraweb Togo est une association de promotion numérique à la base et dont les objectifs sont de -créer et renfoncer les liens de fraternités entre les jeunes - Aider la jeunesse...
 - **Opendata Tg** : Lutter pour un accès de tous à l'information.
@@ -138,3 +161,4 @@
 - [Tempo Coworking Space](https://www.tempo-coworking.com)
 - [Minodoo](http://minodoo.com/)
 - [Africa coworkers](https://africacoworkers.org)
+- [WordPress Togo](https://twitter.com/wordpresstg)
